@@ -9,7 +9,7 @@ This repository is alos a great way to familarise oneseelf with pytorch syntax a
 *Create and compile network
 *train network with data
 
-![training process](https://github.com/ibkvictor/classifier_CIFAR10/blob/main/Screen%20Shot%202020-12-23%20at%2004.37.54.png?raw=True)
+![training process](https://github.com/ibkvictor/classifier_CIFAR10/blob/main/Screen%20Shot%202020-12-23%20at%2004.43.02.png?raw=True)
 
 *test network with test data
 
